@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>tessellator</groupId>
   <artifactId>resilience4clj-retry</artifactId>
-  <version>0.1.0</version>
+  <version>0.2.0</version>
   <name>resilience4clj-retry</name>
   <description>A small Clojure wrapper around the resilience4j Retry module</description>
   <licenses>
@@ -15,7 +15,7 @@
   <scm>
     <connection>scm:git:git://github.com/tessellator/resilience4clj-retry.git</connection>
     <developerConnection>scm:git:ssh://git@github.com/tessellator/resilience4clj-retry.git</developerConnection>
-    <tag>a583d327b5be664efdda2f0819d4fffcd877194e</tag>
+    <tag>720a2050e3e0741c1638586e3f132c12634778bc</tag>
     <url>https://github.com/tessellator/resilience4clj-retry</url>
   </scm>
   <dependencies>
@@ -27,7 +27,7 @@
     <dependency>
       <groupId>io.github.resilience4j</groupId>
       <artifactId>resilience4j-retry</artifactId>
-      <version>0.15.0</version>
+      <version>1.2.0</version>
     </dependency>
   </dependencies>
   <build>
