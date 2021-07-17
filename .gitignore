@@ -1,4 +1,5 @@
 .nrepl-port
 .cpcache/
+.lsp/
 .rebl/
 target/
