@@ -1,0 +1,13 @@
+{
+  "name": "Debian",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "args": {
+      "VARIANT": "buster",
+      "CLOJURE_VERSION": "1.11.0.1100"
+    }
+  },
+  "settings": {},
+  "extensions": ["betterthantomorrow.calva"],
+  "remoteUser": "vscode"
+}
